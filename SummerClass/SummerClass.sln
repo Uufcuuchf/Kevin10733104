@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SummerClass", "SummerClass\SummerClass.pyproj", "{C13C4E8C-F64E-4DAF-8434-14AE76763AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13C4E8C-F64E-4DAF-8434-14AE76763AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13C4E8C-F64E-4DAF-8434-14AE76763AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5956745-C6E6-463A-A4CC-7526D7CE870D}
+	EndGlobalSection
+EndGlobal
